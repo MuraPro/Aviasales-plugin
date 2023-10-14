@@ -1,1 +1,1 @@
-## Визульная чать проекта - https://aviasales-rust-eight.vercel.app/
+## Визульная чать проекта - https://aviasels-plugin.vercel.app/
