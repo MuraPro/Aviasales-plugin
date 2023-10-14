@@ -1,0 +1,16 @@
+.Indicator {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #2196f3;
+}
+
+.Indicator img {
+  margin-bottom: 1rem;
+  width: 20%;
+}
+
+.Indicator .Boom {
+  font-size: 1.7rem;
+}
