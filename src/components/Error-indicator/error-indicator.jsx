@@ -1,6 +1,6 @@
 import React from 'react';
 import icon from './icon-error.png';
-import classes from './error-indicator.module.scss';
+import classes from './Error-indicator.module.scss';
 
 function ErrorIndicator() {
   return (
