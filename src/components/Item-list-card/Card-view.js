@@ -1,6 +1,6 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import classnames from 'classnames';
+import PropTypes from 'prop-types';
 import classes from './Item-list-card.module.scss';
 
 import { getStartTime, getEndTime, getTravelTime, getStops, formatPrice } from '../../utils';
@@ -23,7 +23,7 @@ function CardView({ ticket }) {
     <>
       <div className={classes.GridRow}>
         <span className={classes.Price}>{formatPrice(price)}₽</span>
-        <img src={`//pics.avs.io/99/36/${carrier}.png`} alt="logotype" className={classes.Logo} />
+        <img src={`//pics.avs.io/99/36/${carrier}.png`} alt="s7 logo" className={classes.Logo} />
       </div>
       <div className={classnames(classes.GridRow, classes.Forward)}>
         <div>
