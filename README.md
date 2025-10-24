@@ -28,6 +28,13 @@ A React + Redux Toolkit plugin with lazy-loading and ticket filtering for flight
 - Usage of RTK query or async thunks for data fetching  
 
 ## Demo  
+## Setup & Installation  
+```bash
+git clone https://github.com/MuraPro/Aviasales-plugin.git
+cd Aviasales-plugin
+npm install
+npm run dev
+
 Live demo: [https://aviasels-plugin.vercel.app/](https://aviasels-plugin.vercel.app/)  
 
 
